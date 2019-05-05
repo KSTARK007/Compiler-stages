@@ -17,6 +17,5 @@ In this repository I am trying to demo all the major different phases of a C# co
 ## Usage
 ``` bash
 $ chmod 777 run.sh
-$ run.sh
+$ ./run.sh
 ```
-
